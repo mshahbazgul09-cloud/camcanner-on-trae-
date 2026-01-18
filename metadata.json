@@ -1,0 +1,8 @@
+{
+  "name": "CamScannerX",
+  "description": "A smart mobile-first document scanner with AI-powered OCR, auto-enhancement, and PDF export.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
